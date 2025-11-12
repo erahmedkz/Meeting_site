@@ -13,7 +13,7 @@
 
 Использованные технологии:
 1. Frontend: HTML5, CSS3, JavaScript
-2. Backend: Node.js (или Python/Django, если ты позже добавил серверную часть — уточни)
+2. Backend: Node.js 
 3. Database: PostgreSQL
 4. Дополнительно: адаптивная верстка, простая архитектура MVC (если применялась)
 
